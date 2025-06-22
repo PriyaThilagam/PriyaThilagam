@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Priyanka S</h1>
+<h1 align="center">Hi there , I'm Priyanka S</h1>
 
 <p align="center">
   <i>A Passionate Backend Developer | Java Enthusiast | Cloud Explorer ☁️ | System Design Learner</i>
@@ -6,7 +6,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 - 🔭 Building projects on **Spring Boot**, **MERN stack** and other technologies
 - 🌱 Learning **System Design**, and exploring **AWS Cloud**.
