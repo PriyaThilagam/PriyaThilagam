@@ -8,11 +8,11 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently building robust backend systems with Spring Boot and Node.js.
-- 🌱 Learning **Spring Boot**, **System Design**, and exploring **AWS Cloud**.
+- 🔭 Building projects on **Spring Boot**, **MERN stack** and other technologies
+- 🌱 Learning **System Design**, and exploring **AWS Cloud**.
 - 🧠 Curious about how things actually work under the hood — from requests to responses, I dig deep.
-- 💡 Strong in **OOPS** principles and actively solving **DSA** problems.
-- ✨ I love building scalable systems and crafting meaningful digital experiences.
+- 💡 Good at **OOPS** principles and actively solving **DSA** problems.
+- 📱 Exploring **Flutter** basics and understanding **Networking** fundamentals 
 
 ---
 
@@ -58,14 +58,6 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
----
-
-### 🚀 What I’m Working On
-
-- 🔧 Developing backend projects using **Spring Boot** and **MERN Stack**.
-- 📚 Designing scalable backend architectures.
-- 🧩 Deep-diving into **System Design** and **Cloud Architecture**.
-- 🧠 Solving problems on LeetCode to sharpen DSA skills.
 
 ---
 
