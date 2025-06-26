@@ -58,16 +58,6 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
 </p>
 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyaThilagam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyaThilagam&theme=radical" width="48%" />
-</p>
-
 ---
 
 ### 🧠 LeetCode Progress
